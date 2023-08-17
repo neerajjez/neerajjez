@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Neeraj Jeswani</h1>
-<h3 align="center">I am passionate about cyber security (in particular, cyber forensics), and I am a Java Backend Developer from India</h3>
+<h3 align="center">I am passionate about cyber security, and I am a Java & Python Backend Developer from India</h3>
 
-- 🔭 I’m currently working on **Intrusion Detection System**
+- 🔭 I’m currently working on **CyberSentinel -  Web Services Scanner**
 
-- 🌱 I’m currently learning **Cyber Forensics, SpringBoot with Security (AWT)**
+- 🌱 I’m currently learning **Cyber Security, Vulnerability Scanner, Advance Python**
 
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **neerajjes@outlook.com**
+- 📫 How to reach me **neerajjeswani11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
